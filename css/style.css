@@ -1,0 +1,10 @@
+.imgs img{
+	width:30%;
+	height: auto
+}
+.ti{
+	font-size: 16px
+}
+body{
+	background:  linear-gradient(rgba(118, 234, 80, 0.95), rgba(50, 191, 7, 0.9)) !important;
+}
